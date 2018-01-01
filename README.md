@@ -10,7 +10,7 @@
 
 * [Written tutorials](#written-tutorials)
 
-### Video tutorials
+## Video tutorials
 
 * [Introduction to Processing environment](http://hello.processing.org/)
 
@@ -18,7 +18,7 @@
 
 * [Evaluating and debugging the Processing code](https://vimeo.com/140134398)
 
-### Written tutorials
+## Written tutorials
 
 * [Getting Started](https://processing.org/tutorials/gettingstarted/)
 
